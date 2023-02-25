@@ -57,4 +57,7 @@ Request JSON
 
 
 ![Screenshot (338)](https://user-images.githubusercontent.com/80022302/220863065-8fc83f96-7f80-4ff3-9eec-742f6fd3c732.png)
+![Screenshot (352)](https://user-images.githubusercontent.com/80022302/221332711-951712bd-d73d-4cf7-95c3-aab820ff2d0b.png)
+
+![Screenshot (353)](https://user-images.githubusercontent.com/80022302/221332734-c669fbd2-3969-4b52-b4c7-e9e376dede9d.png)
 
